@@ -4,9 +4,10 @@ export default function Home() {
   return (<Image
           src="/elemesmo.jpg"
           alt="Next.js logo"
-          width={180}
-          height={38}
+          width={500}
+          height={136}
           priority
         />
   );
 }
+
